@@ -1,0 +1,84 @@
+name: Sebastian Olsson
+title: Game Programmer & Tech Lead
+contact:
+  location: Skövde
+  phone: 072-30 11 086
+  email: S.Olsson91@gmail.com
+
+profile: >
+  Game programmer with experience in Unreal Engine 5, C++, and CI/CD.
+  Background in both game development and technical leadership.
+
+experience:
+  - title: Tech Lead & System Administrator
+    company: Pigs Will Fly Studio
+    location: Jönköping
+    date: Nov 2025 – Mar 2026
+    bullets:
+      - Led technical direction and architecture decisions for studio projects.
+      - Managed IT infrastructure and internal systems administration.
+      - Coordinated development workflows and tooling across the team.
+
+  - title: Game Programmer
+    company: Palindrome Interactive
+    location: Skövde
+    date: Mar 2021 – Jul 2025
+    bullets:
+      - Worked on Shadowveil, a Roguelite adventure in the Legend of the Five Rings universe.
+      - Implemented gameplay systems in Unreal Engine 5 using C++ and Blueprints.
+      - Designed and maintained automated build pipelines with Jenkins.
+      - Collaborated with QA to resolve bugs and improve stability.
+      - Developed internal tools to streamline studio workflows.
+
+  - title: IT & Team Leader
+    company: Björndalens Elektriska AB
+    location: Trollhättan
+    date: Nov 2016 – May 2020
+    bullets:
+      - Managed customer contact, technician scheduling, and invoicing.
+      - Optimized and maintained company IT systems.
+      - Installed network infrastructure and cabling at customer sites.
+
+  - title: Software Developer
+    company: Minalyze AB
+    location: Gothenburg
+    date: Nov 2015 – Oct 2016
+    bullets:
+      - Developed features for a geological analysis scanner in C++ and Python.
+
+  - title: Retail Sales Assistant
+    company: Webhallen Sverige
+    location: Gothenburg
+    date: Nov 2016 – Mar 2017 (Part-time)
+    bullets:
+      - Counter sales and warehouse organisation.
+
+education:
+  - degree: Game Development – Programming
+    school: University of Skövde
+    location: Skövde
+    date: 2012 – 2015
+
+  - degree: Network & Systems Administration
+    school: University of Skövde
+    location: Skövde
+    date: 2011 – 2012
+
+  - degree: IT Communication & Data Security
+    school: Portalens Gymnasium
+    location: Gothenburg
+    date: 2008 – 2011
+
+skills:
+  - label: Programming
+    value: C++, C, Python
+  - label: Game Dev
+    value: Unreal Engine 5
+  - label: CI/CD
+    value: Jenkins, GitHub Actions, TeamCity
+  - label: Version Control
+    value: Git, PlasticSCM, Perforce
+  - label: OS
+    value: Linux, Windows
+  - label: Languages
+    value: Swedish (native), English (fluent)
