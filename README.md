@@ -7,3 +7,5 @@ Small python script to generate a CV with specific data.
 Run
 - ```make```
 - ```make run```
+
+[Look at my CV](cv.pdf)
