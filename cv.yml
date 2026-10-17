@@ -10,6 +10,13 @@ profile: >
   Background in both game development and technical leadership.
 
 experience:
+  - title: Systems and Gameplay Programmer
+    company: Doublemoose
+    location: Skövde
+    date: Sep 2026 - Current
+    bullets:
+      - Gameplay programmer on unannounced project.
+
   - title: Tech Lead & System Administrator
     company: Pigs Will Fly Studio
     location: Jönköping
@@ -45,13 +52,6 @@ experience:
     date: Nov 2015 – Oct 2016
     bullets:
       - Developed features for a geological analysis scanner in C++ and Python.
-
-  - title: Retail Sales Assistant
-    company: Webhallen Sverige
-    location: Gothenburg
-    date: Nov 2016 – Mar 2017 (Part-time)
-    bullets:
-      - Counter sales and warehouse organisation.
 
 education:
   - degree: Game Development – Programming
